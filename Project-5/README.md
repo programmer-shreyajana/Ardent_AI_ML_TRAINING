@@ -88,7 +88,8 @@ python emotion_detection.py
 
 ## 📸 Demo
 
-> *(Add a screenshot or GIF of the live detection here)*
+ <img width="698" height="443" alt="Screenshot 2026-02-20 151955" src="https://github.com/user-attachments/assets/93149101-6595-4d9a-9121-7851017a8c9b" />
+
 
 ---
 
