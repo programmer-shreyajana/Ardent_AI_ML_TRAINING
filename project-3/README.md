@@ -1,4 +1,4 @@
-# 🚀 Student Portfolio — AI & Python Projects
+# 🚀 Shreya Portfolio — AI & Python Projects
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-7C4DFF?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
