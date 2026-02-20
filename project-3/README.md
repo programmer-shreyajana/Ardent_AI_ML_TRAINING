@@ -1,110 +1,137 @@
-<div align="center">
+# 🚀 Student Portfolio — AI & Python Projects
 
-# 👋 Hi, I'm Shreyajana
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-7C4DFF?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-### B.Sc (CSE) Student • AI/ML Enthusiast • Python Developer
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-7C4DFF?style=for-the-badge)](https://github.com/programmer-shreyajana/portfolio?tab=readme-ov-file#portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-programmer--shreyajana-181717?style=for-the-badge&logo=github)](https://github.com/programmer-shreyajana)
-[![Location](https://img.shields.io/badge/📍_Location-Haldia,_India-00E5FF?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Open_to_Internships-00E676?style=for-the-badge)]()
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a 2nd-year B.Sc in Computer Science student at **Haldia Institute of Management** (4th Semester), passionate about Python, data analysis, and Machine Learning. I enjoy building projects that solve real problems and learning modern AI tools.
-
-I completed a hands-on **AI/ML Workshop (Ardent)** and built real projects in Google Colab, which I've organized and pushed to GitHub. Guided by my mentor **SK Sahil** (AI Developer & Tutor at Code_ScholarEU), I've developed foundational skills in ML model development, EDA, and GitHub workflows.
-
-> 🤖 Currently exploring: Supervised Learning • Automation Workflows • LLM Applications
+<p align="center">
+  <a href="https://github.com/programmer-shreyajana/portfolio">🌐 Live Portfolio</a> •
+  <a href="https://github.com/programmer-shreyajana">👤 GitHub Profile</a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 👋 About Me
 
-### 📊 Project 1: EDA Dashboard — Titanic Dataset
-> Exploratory Data Analysis • Visual Insights
+Hi! I'm a **B.Sc Computer Science** student in my **2nd year (4th Semester)** at **Haldia Institute of Management**, Haldia, India.
 
-A beginner-friendly EDA project where I loaded a real-world dataset, cleaned missing values, created visualizations, and derived meaningful insights.
+I'm passionate about **Python, Data Analysis, and Machine Learning**. This portfolio showcases hands-on projects I built during an intensive AI/ML workshop, guided by my mentor **SK Sahil** (AI Developer & Tutor, [Code_ScholarEU](https://www.instagram.com/code_scholar_eu/)).
 
-**What I did:**
-- Loaded and explored dataset columns using **Pandas**
-- Handled missing values using mean and mode imputation
-- Created visualizations: survival count, gender vs. survival, age distribution
-- Summarized key insights clearly (presentation-ready)
-
-**Tech Stack:** `Pandas` `Matplotlib` `Data Cleaning` `Insights`
-
-[![Notebook](#)](/) [![GitHub Repo](#)](/)
-
----
-
-### 🏠 Project 2: House Price Prediction — Linear Regression
-> Supervised ML • Model Evaluation (RMSE, R²)
-
-My first supervised Machine Learning model — trained on real data to predict house prices on unseen test sets.
-
-**What I did:**
-- Performed **train-test split** for unbiased evaluation
-- Trained model using **scikit-learn's** LinearRegression
-- Evaluated performance with **RMSE** and **R² score**
-- Visualized **Actual vs. Predicted** values and residual errors
-
-**Tech Stack:** `scikit-learn` `Linear Regression` `RMSE` `R²` `Matplotlib`
-
-[![Notebook](#)](/) [![GitHub Repo](#)](/)
+I'm actively exploring:
+- 🤖 AI & Automation workflows
+- 🧠 Supervised Machine Learning
+- 💬 LLM applications (learning stage)
+- 📊 Data storytelling with Python
 
 ---
 
 ## 🛠️ Skills & Tools
 
-| Category | Skills |
+| Category | Tools / Concepts |
 |---|---|
-| **Languages** | Python |
-| **Data Handling** | Pandas, EDA, Data Cleaning |
-| **Machine Learning** | Linear Regression, scikit-learn, Train-Test Split, RMSE, R² |
+| **Language** | Python (functions, loops, data structures) |
+| **Data Handling** | Pandas, EDA, data cleaning, missing value treatment |
 | **Visualization** | Matplotlib (bar charts, histograms, scatter plots, residual analysis) |
-| **Dev Tools** | Google Colab, GitHub, Git |
-| **Interests** | AI, Automation, LLMs |
+| **Machine Learning** | scikit-learn, Linear Regression, Train-Test Split |
+| **Evaluation Metrics** | RMSE, R² Score |
+| **Dev Environment** | Google Colab, GitHub, VS Code |
 
 ---
 
-## 📚 Workshops & Learning
+## 📂 Featured Projects
 
-**🔬 Ardent — AI & Machine Learning Workshop** *(3 Days)*
-Completed a practical workshop with theory + live coding in Google Colab. Built portfolio projects covering EDA and Linear Regression model development.
+### 📊 Project 1 — EDA Dashboard (Titanic Dataset)
+> Exploratory Data Analysis · Visual Insights · Pandas · Matplotlib
 
-**🤖 Code_ScholarEU — AI Development Learning** *(Ongoing)*
-Learning modern AI development topics including automation workflows, LLM use-cases, and building real projects step-by-step. Mentored by **SK Sahil**.
+A beginner-friendly EDA project on the classic Titanic dataset.
+
+**What I did:**
+- Loaded and explored the dataset using **Pandas**
+- Handled missing values using **mean** and **mode** imputation
+- Created visualizations: survival count, gender vs. survival, age distribution
+- Wrote clear insights from data patterns (presentation-ready)
+
+**Tech Stack:** `Pandas` `Matplotlib` `Google Colab`
 
 ---
 
-## 📫 Contact & Links
+### 🏠 Project 2 — House Price Prediction
+> Linear Regression · Model Evaluation · scikit-learn · RMSE · R²
 
-| | |
+My first supervised Machine Learning model that predicts house prices from real-world features.
+
+**What I did:**
+- Performed **train-test split** for unbiased model evaluation
+- Trained a **Linear Regression** model using scikit-learn
+- Evaluated performance using **RMSE** and **R² score**
+- Visualized **Actual vs Predicted** values and residual error distribution
+
+**Tech Stack:** `scikit-learn` `Pandas` `Matplotlib` `Google Colab`
+
+---
+
+## 🎓 Workshops & Learning
+
+### 🏅 Ardent — AI & Machine Learning Workshop
+- 3-day intensive workshop with **theory + live coding** in Google Colab
+- Built real portfolio projects: EDA and Linear Regression model
+- Focus: **ML Foundations**, Data Cleaning, Model Evaluation
+
+### 🤖 Code_ScholarEU — AI Development Learning
+- Ongoing learning under mentor **SK Sahil**
+- Topics: Automation workflows, LLM use-cases, building real projects step-by-step
+- Follow on Instagram: [@code_scholar_eu](https://www.instagram.com/code_scholar_eu/)
+
+---
+
+## 🌐 Portfolio
+
+This portfolio website is built with **pure HTML, CSS & JavaScript** — no frameworks, no build tools.
+
+**Features:**
+- ✨ Animated particle canvas background
+- 🌗 Glassmorphism UI with gradient blobs
+- ⌨️ Typing effect showcasing skills
+- 📱 Fully responsive (mobile-friendly)
+- 🔄 Scroll-reveal animations
+- 📈 Scroll progress bar
+
+**Built with:** `HTML5` `CSS3` `Vanilla JavaScript` `Font Awesome`
+
+---
+
+## 📁 Repository Structure
+
+```
+portfolio/
+├── index.html          # Main portfolio page (all-in-one)
+└── README.md           # This file
+```
+
+---
+
+## 📬 Contact & Connect
+
+I'm open to **internships**, **collaborations**, and **learning opportunities** in Python, Data Analysis, and beginner ML.
+
+| Platform | Link |
 |---|---|
-| 🌐 Portfolio | [View Portfolio](https://github.com/programmer-shreyajana/portfolio?tab=readme-ov-file#portfolio) |
-| 💻 GitHub | [programmer-shreyajana](https://github.com/programmer-shreyajana) |
-| 📸 Mentor (Instagram) | [Code_ScholarEU](https://www.instagram.com/code_scholar_eu/) |
+| 🐙 GitHub | [github.com/programmer-shreyajana](https://github.com/programmer-shreyajana) |
+| 🌐 Portfolio | [programmer-shreyajana/portfolio](https://github.com/programmer-shreyajana/portfolio) |
+| 📸 Mentor (Instagram) | [@code_scholar_eu](https://www.instagram.com/code_scholar_eu/) |
 
 ---
 
-## 🌱 Currently Learning
+## 🙏 Acknowledgements
 
-- Supervised & Unsupervised Learning concepts
-- Feature engineering and model evaluation techniques
-- Automation workflows with Python
-- LLM-powered application development
+A huge thank you to **SK Sahil** for mentoring me through ML basics, GitHub workflows, and portfolio building. This journey wouldn't have been possible without his guidance.
 
 ---
 
-<div align="center">
-
-**Built with ❤️ using HTML, CSS & JS** • **Mentored by SK Sahil @ Code_ScholarEU**
-
-*2nd Year • 4th Semester • Haldia Institute of Management*
-
-</div>
+<p align="center">
+  <i>Built with ❤️ using HTML, CSS & JS · © 2025 Student Portfolio</i>
+</p>
